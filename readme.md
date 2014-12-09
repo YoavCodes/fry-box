@@ -1,5 +1,6 @@
 To get started:
 copy these files to your project folder
+
 create a -.json (dashConfig) file for your project
 
 vagrant up
